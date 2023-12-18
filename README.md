@@ -3,7 +3,7 @@
 This project, developed by Michael Burton and I, is a comprehensive tool for analyzing network traffic, specifically focusing 
 on measuring and characterizing the latency of web servers. Utilizing Python and the Scapy library, this tool processes PCAP 
 files to extract latency information and computes various statistical measures along with the Kullback-Leibler divergence for 
-detailed network analysis.
+detailed network analysis.                                                                                                       
 /*-----------------------------------------------------------------------------------------------------------------------------*/
 
 
@@ -12,7 +12,7 @@ Traffic Analysis: Analyzes network packets, distinguishing between TCP and UDP p
 Latency Measurement: Extracts latency data for specific web server IPs and ports from network traffic.
 Statistical Calculations: Computes average latency, percentile distributions of latencies, and other relevant statistics.
 Kullback-Leibler Divergence Computation: Calculates the divergence between modeled and measured distributions of latency, 
-providing insight into the consistency of network traffic.
+providing insight into the consistency of network traffic.                                                                      
 /*-----------------------------------------------------------------------------------------------------------------------------*/
 
 /*------------------------------------------------------- How to Use ----------------------------------------------------------*/
