@@ -10,7 +10,7 @@ detailed network analysis.
 /*------------------------------------------------------- Features ----------------------------------------------------------*/
 Traffic Analysis: Analyzes network packets, distinguishing between TCP and UDP packets, and calculates the number of each type.                                                       
 Latency Measurement: Extracts latency data for specific web server IPs and ports from network traffic.
-Statistical Calculations: Computes average latency, percentile distributions of latencies, and other relevant statistics.
+Statistical Calculations: Computes average latency, percentile distributions of latencies, and other relevant statistics.                                   
 Kullback-Leibler Divergence Computation: Calculates the divergence between modeled and measured distributions of latency, 
 providing insight into the consistency of network traffic.                                                                      
 /*-----------------------------------------------------------------------------------------------------------------------------*/
